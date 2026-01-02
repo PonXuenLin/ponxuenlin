@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student of University of Teknology Malaysia
 -------------------------------------------
 
-A first year Networking and Cyber Security student at University of Teknology Malaysia
+A first year Computer Science (Computer Networks and Security) student at University of Teknology Malaysia
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [ponxuenlin@graduate.utm.my](mailto:ponxuenlin@graduate.utm.my)
